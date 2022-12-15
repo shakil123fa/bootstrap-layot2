@@ -1,2 +1,2 @@
-# bootstrap-layot2
+# bootstrap-layout2
 new file
